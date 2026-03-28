@@ -9,7 +9,7 @@ This is a clock that displays the current time.
 * JAVASCRIPT
 
 ## Live link
-[https://thuotracy.github.io/digital-clock/](https://bd-mutant7.github.io/digital-clock/)
+https://bd-mutant7.github.io/digital-clock/
 
 ## Support and contact details
 Incase you run into any issues kindly contact me on this Email tracyjacobs775@gmail.com
